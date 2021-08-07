@@ -1,3 +1,3 @@
 # belajargithub
 
-kita akan mempelajari githun
+kita akan mempelajari github
